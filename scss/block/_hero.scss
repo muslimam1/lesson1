@@ -1,0 +1,38 @@
+.hero{
+    background-color: #F6F4EC;
+    padding-bottom: 39px;
+}
+
+.hero__name{
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 170%;
+    text-transform: capitalize;
+    text-align: center;
+    color: #b45f4d;
+    padding-top: 39px;
+}
+
+.hero__link{
+    margin-top: 64px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero__title{
+    margin-top: 35px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    text-transform: uppercase;
+    color: #b45f4d;
+}
+
+.hero__price{
+    margin-top: 23px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    color: #b45f4d;
+}

@@ -1,0 +1,33 @@
+.decoration__box{
+    background-image: url('../../img/decors.png');
+    width: 1170px;
+    height: 407px;
+    margin-top: 34px;
+    margin-bottom: 46px;
+}
+
+.decoration__list{
+    padding: 31px 29px 32px 29px;
+    background-color: #DE9A7A;
+    display: flex;
+    justify-content: space-between;
+}
+
+.decoration__items1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-transform: uppercase;
+    color: #f6f4ec;
+}
+
+.decoration__items{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: #f6f4ec;
+}
+
+.decoration__block{
+   padding-top: 23%;
+}
